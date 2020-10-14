@@ -1,2 +1,2 @@
 # DAEDALUS
-An integrated economic-epidemiological model to model differentiated lockdown strategies in the control of COVID-19
+An integrated economic-epidemiological model to project the outcomes of differentiated lockdown strategies for the control of the COVID-19 pandemic
